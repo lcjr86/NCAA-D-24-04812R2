@@ -1,0 +1,13 @@
+CCY,scenario,type,R2,MAPE,MAE,RMSE,file,name
+ETHUSDT_1h,TDA,univariate,0.008659184,174.48837,0.21029629,0.27153465,-,benchmark
+ETHUSDT_1h,datetime,univariate,0.008659184,174.48837,0.21029629,0.27153465,-,benchmark
+ETHUSDT_1h,difference-and-change,univariate,0.008659184,174.48837,0.21029629,0.27153465,-,benchmark
+ETHUSDT_1h,embedding,univariate,0.008659184,174.48837,0.21029629,0.27153465,-,benchmark
+ETHUSDT_1h,lagged,univariate,0.008659184,174.48837,0.21029629,0.27153465,-,benchmark
+ETHUSDT_1h,temporal-decomposition,univariate,0.008659184,174.48837,0.21029629,0.27153465,-,benchmark
+ETHUSDT_1h,TDA,multivariate,-0.4434514,180.64505,0.22619453,0.32765353,04-02_time_delay_168_slice_size_336-output-metrics.csv,
+ETHUSDT_1h,datetime,multivariate,-0.69756603,390.11072,0.29601425,0.35532612,04-02b-output-metrics.csv,
+ETHUSDT_1h,difference-and-change,multivariate,-0.3269062,307.53195,0.24822564,0.3141477,04-02c-output-metrics.csv,
+ETHUSDT_1h,embedding,multivariate,0.12930131,200.40135,0.20858258,0.25447652,04-02e-output-metrics.csv,
+ETHUSDT_1h,lagged,multivariate,-0.019955277,221.4948,0.20868117,0.2754256,04-02a-output-metrics.csv,
+ETHUSDT_1h,temporal-decomposition,multivariate,-0.46039546,209.76308,0.2547398,0.329571,04-02d-output-metrics.csv,
