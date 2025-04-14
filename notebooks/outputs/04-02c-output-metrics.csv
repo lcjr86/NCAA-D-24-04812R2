@@ -1,0 +1,3 @@
+CCY,scenario,type,R2,MAPE,MAE,RMSE
+ETHUSDT_1h,difference-and-change,univariate,0.008659184,174.48837,0.21029629,0.27153465
+ETHUSDT_1h,difference-and-change,multivariate,-0.3269062,307.53195,0.24822564,0.3141477
